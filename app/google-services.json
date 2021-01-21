@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35731040661",
+    "firebase_url": "https://la-cuisine-cfc03-default-rtdb.firebaseio.com",
+    "project_id": "la-cuisine-cfc03",
+    "storage_bucket": "la-cuisine-cfc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35731040661:android:2eaca9958bb055616eae9c",
+        "android_client_info": {
+          "package_name": "com.example.lacuisine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35731040661-v89trmobtjc0dtnftqfhdiirpittpuu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lacuisine",
+            "certificate_hash": "96c69bd4e0e7844f47b977ec76862c572a783c41"
+          }
+        },
+        {
+          "client_id": "35731040661-5ufvanpktauefom3b809q33tf091punu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCFX-yFMi-ojp1sNIJuxJ0eleJbpD6524"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35731040661-5ufvanpktauefom3b809q33tf091punu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

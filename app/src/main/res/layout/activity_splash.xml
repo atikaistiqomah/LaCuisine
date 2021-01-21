@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    android:visibility="visible"
+    android:gravity="center"
+    tools:context=".Splash">
+
+    <ImageView
+        android:id="@+id/logobentuk"
+        android:layout_width="244dp"
+        android:layout_height="205dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo_bentuk" />
+
+    <ImageView
+        android:id="@+id/logotulisan"
+        android:layout_width="182dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo_tulisan" />
+
+</LinearLayout>
